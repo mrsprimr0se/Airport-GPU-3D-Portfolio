@@ -52,3 +52,19 @@ The model was created in Blender and imported into Unity for real-time visualiza
 The goal of this project was to practice hard-surface modeling, building an industrial asset from individual components, and preparing a 3D model for presentation in a real-time game engine.
 
 This is a personal learning and portfolio project.
+
+
+## Technical Details
+
+- Asset type: Stylized hard-surface 3D model
+- Software: Blender 4.3 and Unity 2022.3
+- Export format: FBX
+- Rendering: Unity Built-in Render Pipeline
+- Presentation images: 1920 x 1080 PNG
+- Technical preview: Blender wireframe visualization
+
+## Source Files
+
+- `Source/Airport_GPU_Unity.blend` - Blender project
+- `Source/Airport_GPU.fbx` - Exported 3D asset
+
