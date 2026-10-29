@@ -1,5 +1,9 @@
 # Airport Ground Power Unit (GPU) — 3D Model
 
+
+![Airport Ground Power Unit — 3D render in Unity](Renders/Airport_GPU_Hero.png)
+  
+
 ## Project Overview
 
 A personal 3D modeling project featuring a stylized Airport Ground Power Unit (GPU), an industrial ground-support vehicle used at airports.
