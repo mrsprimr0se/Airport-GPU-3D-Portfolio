@@ -38,9 +38,14 @@ The model was created in Blender and imported into Unity for real-time visualiza
 
 ## Project Gallery
 
-- **Airport_GPU_Hero.png** — main presentation view
-- **Airport_GPU_Back.png** — rear three-quarter view
-- **Airport_GPU_Wireframe.png** — mesh visualization
+
+### Rear View
+
+![Airport GPU — Rear View](Renders/Airport_GPU_Back.png)
+
+### Wireframe View
+
+![Airport GPU — Wireframe](Renders/Airport_GPU_Wireframe.png)
 
 ## Project Goal
 
